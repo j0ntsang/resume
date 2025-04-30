@@ -14,24 +14,21 @@ Accomplished frontend specialist with 11 years of experience crafting visually a
 
 ## SKILLS
 
-- HTML5 / CSS3
-- JavaScript (ES6+)
-- React.js
-- Vue.js
-- State Management (Redux)
-- Cross-Browser Compatibility
-- Webpack / Build-chain (Yarn, NPM)
-- REST API
-- GraphQL
-- Continuous Integration / Deployment (CI/CD)
-- Version Control (Git/SVN)
-- Testing / Debugging (QA Automation)
-- Web Performance / Security
-- Web Accessibility (WCAG)
-- Amazon AWS
-- Ruby On Rails
-- WordPress
-- PHP
+- HTML5 and CSS3
+- JavaScript (ES6 and newer)
+- React.js and Vue.js
+- Redux for state management
+- Cross-browser compatibility
+- Webpack, Yarn, and NPM for build processes
+- RESTful APIs and GraphQL
+- Continuous Integration and Deployment (CI/CD)
+- Version control with GitHub (Git) and Subversion (SVN)
+- React Testing Library, Jest, Cypress and RSpec
+- Web performance optimization and security best practices
+- Web Content Accessibility Guidelines (WCAG) 2.1 compliance
+- Amazon Web Services (AWS)
+- Ruby on Rails
+- PHP and WordPress development
 
 ---
 
