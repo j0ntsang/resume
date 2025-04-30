@@ -40,7 +40,7 @@ September 2022 – December 2022
 
 Thinkific  
 Senior Design System Engineer  
-October 2020 – March 2022
+June 2021 – March 2022
 
 - Developed and maintained a React component library across multiple applications
 - Audited development and usage patterns to prioritize resources effectively
