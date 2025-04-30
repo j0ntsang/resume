@@ -95,7 +95,7 @@ October 2020 – May 2021
 - Played key role in a major website rebrand and EmberJS-to-ReactJS migrations
 - Mentored new engineers and contributed to team development
 
-**Intermediate Frontend Engineer**
+**Intermediate Frontend Engineer**  
 April 2017 – September 2020
 
 - Lead developer for customizable themes in a ReactJS site builder application
