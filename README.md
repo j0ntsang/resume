@@ -2,7 +2,7 @@
 
 **Phone:** +1 (778) 788-7238  
 **Email:** jw.tsang@gmail.com  
-**LinkedIn:** [https://www.linkedin.com/in/j0ntsang](https://www.linkedin.com/in/j0ntsang)
+**LinkedIn:** https://www.linkedin.com/in/j0ntsang
 
 ---
 
