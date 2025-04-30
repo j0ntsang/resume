@@ -34,6 +34,20 @@ Accomplished frontend specialist with 11 years of experience crafting visually a
 
 ## EXPERIENCE
 
+### DataAnnotation.tech
+
+**Data Annotator**  
+February 2024 - April 2025
+
+- Contributed to the training of AI/ML models by
+  comparative labeling and response/prompt evaluation
+- Supported the development of AI systems such as
+  chatbots and virtual assistants
+- Worked independently in a fully remote, flexible
+  environment to meet project deadlines
+
+---
+
 ### Outside The Box
 
 **Senior Frontend Engineer**  
