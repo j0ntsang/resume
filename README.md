@@ -127,6 +127,8 @@ June 2015 – September 2016
 - Organized and maintained archives of legacy & current client materials
 - Assisted internal IT with network setup and new-hire onboarding
 
+---
+
 ## EDUCATION
 
 **Diploma in Web Development & Interactive Design**  
