@@ -1,141 +1,92 @@
-Jonathan Tsang
+Jonathan Tsang  
 +1 (778) 788-7238 | jw.tsang@gmail.com | https://www.linkedin.com/in/j0ntsang
 
 SUMMARY
 
-Accomplished frontend specialist with 11 years of experience crafting visually appealing, user-friendly, and
-scalable web applications. Proficient in semantic, accessible HTML and an expert in CSS. Comfortable
-navigating ambiguity. Skilled in both legacy and modern JavaScript frameworks. Detail-oriented and
-committed to staying current with industry trends while delivering intelligent, high-quality solutions for
-inclusive and engaging user experiences.
+Accomplished frontend specialist with 11 years of experience crafting visually appealing, user-friendly, and scalable web applications. Proficient in semantic, accessible HTML and an expert in CSS. Comfortable navigating ambiguity and skilled in both legacy and modern JavaScript frameworks. Detail-oriented and committed to staying current with industry trends while delivering intelligent, high-quality solutions for inclusive and engaging user experiences.
 
 EXPERIENCE
 
-Outside The Box
-Senior Frontend Engineer
-07/2024 - 10/2024
+Outside The Box  
+Senior Frontend Engineer  
+July 2024 – October 2024
 
-- Primarily responsible for developing Avenue‘s A-List
-  membership portal for Avenue Calgary Magazin
-- Engineered mobile-first, responsive interfaces using
-  static desktop prototypes as a baseline
-- Developed a shared UI/component library to streamline
-  development and enable future growt!
-- Built authentication workflows for user registration,
-  verification, and password handlin
-- Created a content management system (CMS) for
-  managing events and event partners, including event-to-
-  event and event-to-partner relationship mappin
-- Established logic for dynamic display and categorization
-  of events based on ticket sale volume, popularity and
-  current/upcoming availabilit+
-- Engineered payment system through Stripe for annual
-  memberships, with variable reserved seating and
-  proprietary currency exchange on event registration
+- Developed Avenue’s A-List membership portal for Avenue Calgary magazine
+- Engineered mobile-first, responsive interfaces using static desktop prototypes
+- Built a shared UI/component library to streamline development and enable future growth
+- Implemented authentication workflows for registration, verification, and password handling
+- Created a CMS for managing events and partners, with event-to-event and event-to-partner mapping
+- Developed logic for dynamic categorization of events based on ticket sales, popularity, and availability
+- Integrated Stripe for annual memberships, with reserved seating and proprietary currency exchange features
 
-Castofly Technologies Inc
-Senior Frontend Developer
-04/2023 - 01/2024
+Castofly Technologies Inc.  
+Senior Frontend Developer  
+April 2023 – January 2024
 
-- UI/UX designer of a video-centric presentation platfor
-- Engineered custom, reusable ReactJS components that
-  meets WCAG 2.1 accessibility standard
-- Improved product onboarding UX fl ow, seeing an overall
-  engagement increase of 15
-- Built text overlay feature for video edito
-- Designed & developed chrome extensioÒ
-- Assumed ownership of company website, driving
-  product knowledge and top-of-funnel leads acquisition
+- Led UI/UX design for a video-centric presentation platform
+- Engineered reusable ReactJS components compliant with WCAG 2.1 accessibility standards
+- Improved onboarding UX flow, increasing user engagement by 15%
+- Built a text overlay feature for the video editor
+- Designed and developed a Chrome extension
+- Took ownership of the company website, enhancing product visibility and lead acquisition
 
-Frontly
-Senior Frontend
-09/2022 - 12/2022
+Frontly  
+Senior Frontend Developer  
+September 2022 – December 2022
 
-- Lead frontend developer and designer of a no-code
-  analytics dashboard with Google Sheets integratioÒ
-- Spearheaded efforts to improve application accessibility,
-  performance & securit¹
-- Converted existing UI codebase to a reusable
-  component library to increase feature development by 2x
+- Lead frontend developer and designer for a no-code analytics dashboard integrated with Google Sheets
+- Spearheaded improvements in application accessibility, performance, and security
+- Refactored the UI codebase into a reusable component library, doubling feature development speed
 
-Thinkific
-Senior Design System Engineer
-10/2020 - 03/2022
+Thinkific  
+Senior Design System Engineer  
+October 2020 – March 2022
 
-- Responsible for developing and streamlining the React
-  component library across multiple application stack
-- Conducted audit of existing development & usage
-  patterns, identifying areas of priority for resource need
-- Resolved administrative and technical backlogs to
-  improve product roadmap efficiency; Reaching the goal
-  by shortening the projected 2 year timeline to 9 month
-- Thought-leader and educator of the wider engineering
-  organization on proper usage of the design library
+- Developed and maintained a React component library across multiple applications
+- Audited development and usage patterns to prioritize resources effectively
+- Resolved backlog issues, accelerating the product roadmap from 2 years to 9 months
+- Acted as a thought leader and educator on design system best practices
 
-Thinkific
-Senior Frontend Engineer (Growth)
-October 2020 - June 2021
+Senior Frontend Engineer (Growth)  
+October 2020 – June 2021
 
-- Lead developer of growth hacking team with a focus on
-  optimizing AARRR metrics (Acquisition, Activation,
-  Retention, Referral, Revenue)
-- Drove marketing, product feature, and optimization
-  experiments to enhance user engagement and revenuQ
-- Established cross-departmental collaboration practices
-  and Standard Operating Procedures (SOPs) to integrate
-  growth-mindset into project planning and developmenY
-- Executed multiple successful growth experiments,
-  contributing to a $150,000 increase in Monthly Recurring
-  Revenue (MRR)
-- Cross-functional engineer with a focus on Agile
-  methodologies and strong understanding of UI/UX best-
-  practice
-- Led multiple large-scale initiatives, including a company
-  website rebrand and legacy EmberJS-to-ReactJS
-  migration
-- Actively contributed to team growth by onboarding and
-  mentoring new engineers
+- Lead developer on the growth team, focused on optimizing AARRR metrics
+- Executed marketing and feature experiments that boosted engagement and revenue
+- Introduced SOPs to embed growth principles into project planning
+- Drove $150,000+ in additional Monthly Recurring Revenue (MRR) through successful growth initiatives
+- Played a key role in a major website rebrand and an EmberJS-to-ReactJS migration
+- Mentored new engineers and contributed to team development
 
-Intermediate Frontend Engineer
-April 2017 - October 2020
-Lead developer in the creation of customizable Themes for
-an organizational-first React JS Site Builder application.
-Cross-functional resource to the Marketing team for website
-updates that increased product knowledge and
-engagement. Created a library of templates that allowed the
-content team to deliver faster while achieving a consistent
-brand image & design language.
+Intermediate Frontend Engineer  
+April 2017 – October 2020
 
-Kellett Communications
-Fullstack Developer
-October 2016 - March 2017
-Responsible for determining and planning architecture,
-layout, scoping projects, estimating hours, reviewing
-estimates and specifications at project end. Other duties
-include technical leadership and accountability with clients.
-Overseeing freelance & partner web developers. Code
-reviews, beta testing and final product delivery. Support and
-communication with directors towards technical solutions to
-maintain creative process and vision. Maintenance contracts
-or engagements. Working with account managers to
-successfully manage client relationships.
+- Lead developer for customizable themes in a ReactJS site builder application
+- Supported the marketing team with web updates to improve product visibility
+- Built a template library for faster, brand-consistent content publishing
 
-Outcrop Communications Ltd
-June 2015 - September 2016
-rontend development for Northwest Territory gover nment
-clients, subsidiaries, tourism (SpectacularNWT),
-telecommunications (Northwestel) and the Outcrop internal
-online publication of UpHere Magazine. Responsible for
-collecting client requirements, supporting pitch meetings,
-routine security & performance updates and organizing the
-archive of client materials both new & legacy. Assisted the
-internal IT department in network configuration, new
-employee setup and department onboarding.
+Kellett Communications  
+Fullstack Developer  
+October 2016 – March 2017
+
+- Planned and scoped technical architecture, estimated project hours, and reviewed specifications
+- Provided technical leadership and client communication
+- Managed freelance and partner developers, performed code reviews, and delivered final products
+- Collaborated with directors to maintain creative integrity through technical solutions
+- Supported clients under maintenance contracts and ensured smooth handoffs
+
+Outcrop Communications Ltd.  
+Frontend Developer  
+June 2015 – September 2016
+
+- Delivered frontend development for Northwest Territories government clients, tourism (Spectacular NWT), telecommunications (Northwestel), and Up Here magazine
+- Collected client requirements, supported pitch meetings, and performed routine security and performance updates
+- Organized and maintained archives of client materials
+- Assisted internal IT with network setup and onboarding
 
 EDUCATION
 
-Diploma, Web Development & Interactive Design
-Vancouver Institute of Media Arts (VanArts) – 09/2013 - 09/2014
+Diploma, Web Development & Interactive Design  
+Vancouver Institute of Media Arts (VanArts) – September 2013 – September 2014
 
-Certificate, Network Administration & Design
-New Brunswick Community College (NBCC Moncton) – 09/2006 - 09/2007
+Certificate, Network Administration & Design  
+New Brunswick Community College (NBCC Moncton) – September 2006 – September 2007
