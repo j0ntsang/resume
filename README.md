@@ -8,6 +8,8 @@
 
 ## SUMMARY
 
+### Senior Frontend Engineer with Design Systems and Full-Stack Experience
+
 Accomplished frontend specialist with 11 years of experience crafting visually appealing, user-friendly, and scalable web applications. Proficient in semantic, accessible HTML and an expert in CSS. Comfortable navigating ambiguity and skilled in both legacy and modern JavaScript frameworks. Detail-oriented and committed to staying current with industry trends while delivering intelligent, high-quality solutions for inclusive and engaging user experiences.
 
 ---
@@ -55,7 +57,6 @@ July 2024 – October 2024
 
 - Developed Avenue’s A-List membership portal for Avenue Calgary magazine
 - Engineered mobile-first, responsive interfaces using static desktop prototypes
-- Built a User Interface (UI) component library to streamline development and enable future growth
 - Implemented authentication workflows for registration, verification, and password handling
 - Created a Content Management System (CMS) for managing event-to-event and event-to-partner mapping
 - Developed logic for dynamic categorization of events based on ticket sales, popularity, and availability
