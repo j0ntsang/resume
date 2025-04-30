@@ -1,6 +1,7 @@
 Jonathan Tsang  
-+1 (778) 788-7238 | jw.tsang@gmail.com | https://www.linkedin.com/in/j0ntsang
-
+Phone: +1 (778) 788-7238  
+Email: jw.tsang@gmail.com  
+LinkedIn: https://www.linkedin.com/in/j0ntsang
 SUMMARY
 
 Accomplished frontend specialist with 11 years of experience crafting visually appealing, user-friendly, and scalable web applications. Proficient in semantic, accessible HTML and an expert in CSS. Comfortable navigating ambiguity and skilled in both legacy and modern JavaScript frameworks. Detail-oriented and committed to staying current with industry trends while delivering intelligent, high-quality solutions for inclusive and engaging user experiences.
@@ -48,7 +49,7 @@ June 2021 – March 2022
 - Acted as a thought leader and educator on design system best practices
 
 Senior Frontend Engineer (Growth)  
-October 2020 – June 2021
+October 2020 – May 2021
 
 - Lead developer on the growth team, focused on optimizing AARRR metrics
 - Executed marketing and feature experiments that boosted engagement and revenue
@@ -82,6 +83,10 @@ June 2015 – September 2016
 - Collected client requirements, supported pitch meetings, and performed routine security and performance updates
 - Organized and maintained archives of client materials
 - Assisted internal IT with network setup and onboarding
+
+SKILLS
+
+[placeholder]
 
 EDUCATION
 
