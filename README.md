@@ -132,9 +132,9 @@ June 2015 – September 2016
 ## EDUCATION
 
 **Diploma in Web Development & Interactive Design**  
-Vancouver Institute of Media Arts (VanArts)
+Vancouver Institute of Media Arts (VanArts)  
 September 2013 – September 2014
 
 **Certificate in Network Administration & Design**  
-New Brunswick Community College (NBCC Moncton)
+New Brunswick Community College (NBCC Moncton)  
 September 2006 – September 2007
