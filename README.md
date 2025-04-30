@@ -40,9 +40,9 @@ Accomplished frontend specialist with 11 years of experience crafting visually a
 February 2024 - April 2025
 
 - Contributed to the training of AI/ML models by
-  comparative labeling and response/prompt evaluation
+  comparative labeling and prompt evaluation
 - Supported the development of AI systems such as
-  chatbots and virtual assistants
+  chatbots, virtual assistants and code generation
 - Worked independently in a fully remote, flexible
   environment to meet project deadlines
 
