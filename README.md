@@ -16,10 +16,10 @@ Accomplished frontend specialist with 11 years of experience crafting visually a
 
 - HTML5 and CSS3
 - JavaScript (ES6 and newer)
-- React.js and Vue.js
+- React.js, NextJS, Vue.js, Svelte
 - Redux for state management
 - Cross-browser compatibility
-- Webpack, Yarn, and NPM for build processes
+- Webpack, Yarn, and NPM for build-chain tooling
 - RESTful APIs and GraphQL
 - Continuous Integration and Deployment (CI/CD)
 - Version control with GitHub (Git) and Subversion (SVN)
