@@ -57,11 +57,12 @@ July 2024 – October 2024
 - Engineered mobile-first, responsive interfaces using static desktop prototypes
 - Built a User Interface (UI) component library to streamline development and enable future growth
 - Implemented authentication workflows for registration, verification, and password handling
-- Created a Content Management System (CMS) for managing events and partners, with event-to-event and event-to-partner mapping
+- Created a Content Management System (CMS) for managing event-to-event and event-to-partner mapping
 - Developed logic for dynamic categorization of events based on ticket sales, popularity, and availability
 - Integrated Stripe for annual memberships, with reserved seating and proprietary currency exchange features
 
----
+<div style="page-break-before: always;"></div>
+<br><br>
 
 ### Castofly Technologies Inc.
 
@@ -116,7 +117,8 @@ April 2017 – September 2020
 - Supported the marketing team with web updates to improve product visibility
 - Built a template library for faster, brand-consistent content publishing
 
----
+<div style="page-break-before: always;"></div>
+<br><br>
 
 ### Kellett Communications
 
@@ -152,3 +154,24 @@ September 2013 – September 2014
 **Certificate in Network Administration & Design**  
 New Brunswick Community College (NBCC Moncton)  
 September 2006 – September 2007
+
+<style>
+html {
+    -webkit-text-size-adjust: 100%;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    tab-size: 4;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    text-size-adjust: none;
+    font-family: Ubuntu, sans-serif;
+    line-height: 1.6rem;
+    margin: 0;
+    padding: 3rem;
+    word-break: break-word;
+}
+</style>
