@@ -44,9 +44,9 @@ July 2024 – October 2024
 
 - Developed Avenue’s A-List membership portal for Avenue Calgary magazine
 - Engineered mobile-first, responsive interfaces using static desktop prototypes
-- Built a shared UI/component library to streamline development and enable future growth
+- Built a User Interface (UI) component library to streamline development and enable future growth
 - Implemented authentication workflows for registration, verification, and password handling
-- Created a CMS for managing events and partners, with event-to-event and event-to-partner mapping
+- Created a Content Management System (CMS) for managing events and partners, with event-to-event and event-to-partner mapping
 - Developed logic for dynamic categorization of events based on ticket sales, popularity, and availability
 - Integrated Stripe for annual memberships, with reserved seating and proprietary currency exchange features
 
@@ -57,11 +57,12 @@ July 2024 – October 2024
 **Senior Frontend Developer**  
 April 2023 – January 2024
 
-- Led UI/UX design for a video-centric presentation platform
-- Engineered reusable ReactJS components compliant with WCAG 2.1 accessibility standards
-- Improved onboarding UX flow, increasing user engagement by 15%
-- Built a text overlay feature for the video editor
-- Designed and developed a Chrome extension
+- Directed the User Interface (UI) and User Experience (UX) design of a video-focused slide presentation platform
+- Engineered reusable ReactJS components compliant with Web Content Accessibility Guidelines (WCAG) 2.1 accessibility standards
+- Improved application onboarding flow, increasing content creation engagement by 15%
+- Built a customizable text overlay feature for the slide editor
+- Built a teleprompter for the video recording feature
+- Designed and developed a Chrome extension to enable editing functions from outside app focus
 - Took ownership of the company website, enhancing product visibility and lead acquisition
 
 ---
@@ -73,7 +74,7 @@ September 2022 – December 2022
 
 - Lead frontend developer and designer for a no-code analytics dashboard integrated with Google Sheets
 - Spearheaded improvements in application accessibility, performance, and security
-- Refactored the UI codebase into a reusable component library, doubling feature development speed
+- Refactored the existing User Interface codebase into a reusable component library, doubling feature development speed
 
 ---
 
@@ -84,24 +85,24 @@ June 2021 – March 2022
 
 - Developed and maintained a React component library across multiple applications
 - Audited development and usage patterns to prioritize resources effectively
-- Resolved backlog issues, accelerating the product roadmap from 2 years to 9 months
-- Acted as a thought leader and educator on design system best practices
+- Resolved unprioritized backlog, accelerating the product roadmap from a projected 2 years down to 9 months without compromising deliverables
+- Acted as a thought-leader and educator on design system best practices with the wider product organization
 
-**Senior Frontend Engineer (Growth)**  
+**Senior Frontend Engineer**  
 October 2020 – May 2021
 
-- Lead developer on the growth team, focused on optimizing AARRR metrics
+- Lead developer on the growth hacking team, focused on optimizing AARRR metrics (Acquisition Activation, Retention, Referral, Revenue)
 - Executed marketing and feature experiments that boosted engagement and revenue
-- Introduced SOPs to embed growth principles into project planning
+- Introduced Standard Operating Procedures (SOPs) guide-book to embed growth principles into project planning
 - Drove $150,000+ in additional Monthly Recurring Revenue (MRR) through successful growth initiatives
-- Played a key role in a major website rebrand and an EmberJS-to-ReactJS migration
+- Played key role in a major website rebrand and EmberJS-to-ReactJS migrations
 - Mentored new engineers and contributed to team development
 
 ---
 
 ### Intermediate Frontend Engineer
 
-April 2017 – October 2020
+April 2017 – September 2020
 
 - Lead developer for customizable themes in a ReactJS site builder application
 - Supported the marketing team with web updates to improve product visibility
@@ -118,7 +119,7 @@ October 2016 – March 2017
 - Provided technical leadership and client communication
 - Managed freelance and partner developers, performed code reviews, and delivered final products
 - Collaborated with directors to maintain creative integrity through technical solutions
-- Supported clients under maintenance contracts and ensured smooth handoffs
+- Supported 3rd-party contractors and client(s) with development resources
 
 ---
 
@@ -127,15 +128,17 @@ October 2016 – March 2017
 **Frontend Developer**  
 June 2015 – September 2016
 
-- Delivered frontend development for Northwest Territories government clients, tourism (Spectacular NWT), telecommunications (Northwestel), and Up Here magazine
+- Frontend development & CMS management for Northwest Territories government clients, tourism (Spectacular NWT), telecommunications (Northwestel), and UpHere magazine
 - Collected client requirements, supported pitch meetings, and performed routine security and performance updates
-- Organized and maintained archives of client materials
-- Assisted internal IT with network setup and onboarding
+- Organized and maintained archives of legacy & current client materials
+- Assisted internal IT with network setup and new-hire onboarding
 
 ## EDUCATION
 
 **Diploma in Web Development & Interactive Design**  
-Vancouver Institute of Media Arts (VanArts) – September 2013 – September 2014
+Vancouver Institute of Media Arts (VanArts)
+September 2013 – September 2014
 
 **Certificate in Network Administration & Design**  
-New Brunswick Community College (NBCC Moncton) – September 2006 – September 2007
+New Brunswick Community College (NBCC Moncton)
+September 2006 – September 2007
