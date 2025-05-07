@@ -6,9 +6,7 @@
 
 ---
 
-## SUMMARY
-
-### Senior Frontend Engineer with Design Systems and Full-Stack Experience
+**Senior Frontend Engineer with Design Systems and Full-Stack Experience**
 
 Accomplished frontend specialist with 11 years of experience crafting visually appealing, user-friendly, and scalable web applications. Proficient in semantic, accessible HTML and an expert in CSS. Comfortable navigating ambiguity and skilled in both legacy and modern JavaScript frameworks. Detail-oriented and committed to staying current with industry trends while delivering intelligent, high-quality solutions for inclusive and engaging user experiences.
 
@@ -36,10 +34,11 @@ Accomplished frontend specialist with 11 years of experience crafting visually a
 
 ## EXPERIENCE
 
-### DataAnnotation.tech
+<h3 class="company-name">DataAnnotation.tech</h3>
+Fredericton, NB (Remote)
 
-**Data Annotator**  
-February 2024 - April 2025
+**Frontend Engineer**  
+February 2024 - Present
 
 - Contributed to the training of AI/ML models by
   comparative labeling and prompt evaluation
@@ -50,7 +49,8 @@ February 2024 - April 2025
 
 ---
 
-### Outside The Box
+<h3 class="company-name">Outside The Box</h3>
+Calgary, AB (Remote)
 
 **Senior Frontend Engineer**  
 July 2024 – October 2024
@@ -65,7 +65,8 @@ July 2024 – October 2024
 <div style="page-break-before: always;"></div>
 <br><br>
 
-### Castofly Technologies Inc.
+<h3 class="company-name">Castofly Technologies Inc.</h3>
+Vancouver, BC (Remote)
 
 **Senior Frontend Developer**  
 April 2023 – January 2024
@@ -80,7 +81,8 @@ April 2023 – January 2024
 
 ---
 
-### Frontly
+<h3 class="company-name">Frontly</h3>
+Vancouver, BC (Remote)
 
 **Senior Frontend Developer**  
 September 2022 – December 2022
@@ -91,7 +93,8 @@ September 2022 – December 2022
 
 ---
 
-### Thinkific
+<h3 class="company-name">Thinkific</h3>
+Vancouver, BC (On-Site/Remote)
 
 **Senior Design System Engineer**  
 June 2021 – March 2022
@@ -121,7 +124,8 @@ April 2017 – September 2020
 <div style="page-break-before: always;"></div>
 <br><br>
 
-### Kellett Communications
+<h3 class="company-name">Kellett Communications</h3>
+Yellowknife, NWT
 
 **Fullstack Developer**  
 October 2016 – March 2017
@@ -134,7 +138,8 @@ October 2016 – March 2017
 
 ---
 
-### Outcrop Communications Ltd.
+<h3 class="company-name">Outcrop Communications Ltd.</h3>
+Yellowknife, NWT
 
 **Frontend Developer**  
 June 2015 – September 2016
@@ -174,5 +179,9 @@ body {
     margin: 0;
     padding: 3rem;
     word-break: break-word;
+}
+
+h3.company-name {
+  margin-bottom: 0;
 }
 </style>
