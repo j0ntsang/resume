@@ -107,7 +107,7 @@ June 2021 – March 2022
 **Senior Frontend Engineer**  
 October 2020 – May 2021
 
-- Lead developer on the growth hacking team, focused on optimizing AARRR metrics (Acquisition Activation, Retention, Referral, Revenue)
+- Lead developer on the growth hacking team, focused on optimizing AARRR metrics (Acquisition, Activation, Retention, Referral, Revenue)
 - Executed marketing and feature experiments that boosted engagement and revenue
 - Introduced Standard Operating Procedures (SOPs) guide-book to embed growth principles into project planning
 - Drove $150,000+ in additional Monthly Recurring Revenue (MRR) through successful growth initiatives
