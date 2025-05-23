@@ -18,13 +18,11 @@ Accomplished frontend specialist with 11 years of experience crafting visually a
 - JavaScript (ES6 and newer)
 - React.js, NextJS, Vue.js, Svelte
 - Redux for state management
-- Cross-browser compatibility
 - Webpack, Yarn, and NPM for build-chain tooling
 - RESTful APIs and GraphQL
 - Continuous Integration and Deployment (CI/CD)
 - Version control with GitHub (Git) and Subversion (SVN)
 - React Testing Library, Jest, Cypress and RSpec
-- Web performance optimization and security best practices
 - Web Content Accessibility Guidelines (WCAG) 2.1 compliance
 - Amazon Web Services (AWS)
 - Ruby on Rails
@@ -55,6 +53,8 @@ Calgary, AB (Remote)
 **Senior Frontend Engineer**  
 July 2024 – October 2024
 
+\*\* Position eliminated due to loss of client(s)
+
 - Developed Avenue’s A-List membership portal for Avenue Calgary magazine
 - Engineered mobile-first, responsive interfaces using static desktop prototypes
 - Implemented authentication workflows for registration, verification, and password handling
@@ -71,6 +71,8 @@ Vancouver, BC (Remote)
 **Senior Frontend Developer**  
 April 2023 – January 2024
 
+\*\* Position eliminated due to loss of funding
+
 - Directed the User Interface (UI) and User Experience (UX) design of a video-focused slide presentation platform
 - Engineered reusable ReactJS components compliant with Web Content Accessibility Guidelines (WCAG) 2.1 accessibility standards
 - Improved application onboarding flow, increasing content creation engagement by 15%
@@ -81,23 +83,14 @@ April 2023 – January 2024
 
 ---
 
-<h3 class="company-name">Frontly</h3>
-Vancouver, BC (Remote)
-
-**Senior Frontend Developer**  
-September 2022 – December 2022
-
-- Lead frontend developer and designer for a no-code analytics dashboard integrated with Google Sheets
-- Spearheaded improvements in application accessibility, performance, and security
-- Refactored the existing User Interface codebase into a reusable component library, doubling feature development speed
-
----
-
 <h3 class="company-name">Thinkific</h3>
 Vancouver, BC (On-Site/Remote)
 
 **Senior Design System Engineer**  
 June 2021 – March 2022
+
+Tenure ended after a 20% work force reduction.<br />
+Letter from CEO Greg Smith: https://www.thinkific.com/march29letter/
 
 - Developed and maintained a React component library across multiple applications
 - Audited development and usage patterns to prioritize resources effectively
